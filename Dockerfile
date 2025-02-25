@@ -5,7 +5,7 @@
 # docker run -e OLRICD_CONFIG=/etc/olricd/config_ext/olricd.yaml  -v PATH_TO_LOCAL_CONFIG_FOLDER:/etc/olricd/config_ext olricio/olric-cloud-plugin:latest
 #
 # Please take a look at olricd-sample.yaml. Without this, olricd runs at standalone mode.
-# Further details for configuration: https://github.com/buraksezer/olric-cloud-plugin
+# Further details for configuration: https://github.com/pd-pranay/olric-cloud-plugin
 
 FROM golang:latest as build
 

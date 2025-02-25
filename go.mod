@@ -1,6 +1,6 @@
-module github.com/buraksezer/olric-cloud-plugin
+module github.com/pd-pranay/olric-cloud-plugin
 
-go 1.15
+go 1.23.2
 
 require (
 	cloud.google.com/go v0.67.0 // indirect

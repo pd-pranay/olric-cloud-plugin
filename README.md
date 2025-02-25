@@ -7,7 +7,7 @@ Discover nodes in cloud environments. Uses [hashicorp/go-discover](https://githu
 Get the code:
 
 ```
-go get -u github.com/buraksezer/olric-cloud-plugin
+go get -u github.com/pd-pranay/olric-cloud-plugin
 ```
 
 ## Usage

@@ -15,7 +15,7 @@
 package main
 
 import (
-	"github.com/buraksezer/olric-cloud-plugin/lib"
+	"github.com/pd-pranay/olric-cloud-plugin/lib"
 )
 
 // ServiceDiscovery defines a service discovery plugin

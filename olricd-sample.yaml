@@ -110,5 +110,5 @@ memberlist:
 #
 #serviceDiscovery:
 #  provider: "k8s"
-#  path: "/Users/buraksezer/go/src/github.com/buraksezer/olric-cloud-plugin/olric-cloud-plugin.so"
+#  path: "/Users/buraksezer/go/src/github.com/pd-pranay/olric-cloud-plugin/olric-cloud-plugin.so"
 #  args: 'label_selector="app = olricd-server"'
